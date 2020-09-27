@@ -1,5 +1,5 @@
 # botry
-A simple and smart discord bot with rivescript brains
+A simple and smart conversational discord bot with rivescript brains
 
 ## How to install ?
 Clone the project and create a .env file at the root of your project and add your discord token to the .env file with the following line : `TOKEN_DISCORD=YOUR_TOKEN`. You bot require brains (.rive files), you can found some .rive files [here](https://www.rivescript.com/try), then you move them inside the brain directory.
