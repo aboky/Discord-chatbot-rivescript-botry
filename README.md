@@ -8,5 +8,5 @@ After you have to run **npm update** to download required modules. Then you can 
 ## How to interact ?
 In your discord server you have to prefix your question with !bot by default. For ex: hello => !bot hello, else it will ignore you. If you want to **replace this prefix**, just add the following line to the .env file : `PREFIX=YOUR PREFIX`.
 
-## Why botry ?
+## Why ?
 Botry is made for any discord informative bot builder who want to spend more time on making the bot smart an testing quickly.
